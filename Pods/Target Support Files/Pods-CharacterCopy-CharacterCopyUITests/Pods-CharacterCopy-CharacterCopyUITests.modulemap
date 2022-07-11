@@ -1,0 +1,6 @@
+framework module Pods_CharacterCopy_CharacterCopyUITests {
+  umbrella header "Pods-CharacterCopy-CharacterCopyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
